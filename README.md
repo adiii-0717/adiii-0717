@@ -1,36 +1,169 @@
-## 🛠️ Tech Stack
+<!-- =========================================================
+     ADITYA MANJARE — GitHub Profile README
+     Replace any placeholder links marked TODO before publishing.
+     ========================================================= -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
 
-## 🤖 Artificial Intelligence and Bots
-![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
-![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
-![DeepSeek](https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white)
-![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+# 👋 Hi, I'm Aditya Manjare
 
-## 💾 Databases	
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### `MCA Student` • `Software Developer` • `AI & Full-Stack Explorer`
 
-## 🧑‍💻 Developer
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+ideas+into+real-world+software+%E2%9C%A8;Exploring+AI%2C+LLMs+%26+voice+technology+%F0%9F%A4%96;Learning+DSA+one+problem+at+a+time+%F0%9F%A7%A0;Code+%E2%80%A2+Build+%E2%80%A2+Break+%E2%80%A2+Learn+%E2%80%A2+Repeat+%F0%9F%9A%80" alt="Typing animation" />
 
-## 🎓 Education
-![Udemy](https://img.shields.io/badge/Udemy-%23A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)
-![W3 Schools](https://img.shields.io/badge/W3%20Schools-%2304AA6D.svg?style=for-the-badge&logo=w3schools&logoColor=white) 
+<br/>
 
-## ☁️ Hosting
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<a href="https://github.com/Adiiii_0548"><img src="https://img.shields.io/badge/GitHub-Adiiii__0548-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:adityamanjare07@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## 🎛️ Operating System
-![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
+</div>
 
+---
+
+## ⚡ A little about me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```text
+┌────────────────────────────────────────────┐
+│  $ whoami                                  │
+│                                            │
+│  Aditya Manjare                            │
+│  MCA Student & Software Developer          │
+│                                            │
+│  📍 Pune, Maharashtra, India               │
+│  🎓 MCA @ PCCOE                            │
+│                      │
+│  🔥 50-day coding activity milestone      │
+│                                            │
+│  I build practical software, experiment    │
+│  with AI, and enjoy turning ideas into     │
+│  working products.                          │
+└────────────────────────────────────────────┘
+```
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="./assets/coding-demo.gif" width="100%" alt="Aditya coding demo animation" />
+
+<sub>⌨️ <b>Currently building & experimenting</b></sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 What I'm working on
+
+<table>
+<tr>
+<td>🤖</td><td><b>AI Educational Assistant</b><br/>Building <b>EduGPT</b> and exploring practical AI experiences for students.</td>
+</tr>
+<tr>
+<td>💬</td><td><b>Real-time Applications</b><br/>Working with Django, WebSockets and modern application architecture.</td>
+</tr>
+<tr>
+<td>🎙️</td><td><b>AI Voice & LLMs</b><br/>Experimenting with speech-to-speech systems, local models and low-latency AI.</td>
+</tr>
+<tr>
+<td>🧩</td><td><b>Problem Solving</b><br/>Practicing DSA and SQL while preparing for software engineering opportunities.</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech I use
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,php,html,css" alt="Programming languages" />
+
+### Backend • Database • Tools
+
+<img src="https://skillicons.dev/icons?i=django,nodejs,mysql,postgres,docker,git,github,vscode" alt="Backend database and developer tools" />
+
+### Exploring
+
+<img src="https://skillicons.dev/icons?i=react,linux,android,aws" alt="Technologies I am exploring" />
+
+</div>
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adiiii_0548&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00D9FF" height="180" alt="GitHub statistics" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiiii_0548&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" height="180" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiiii_0548&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="160" alt="Most used languages" />
+
+</div>
+
+---
+
+## 🐍 My contribution activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Adiiii_0548/Adiiii_0548/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph snake animation" />
+
+</div>
+
+> If the snake animation does not appear initially, the repository needs the GitHub Actions workflow that generates `github-contribution-grid-snake-dark.svg`.
+
+---
+
+## 🎯 Currently learning
+
+```text
+┌───────────────────────┬─────────────────────────────────────┐
+│ 01                    │ System Design                       │
+│ 02                    │ DSA & Problem Solving              │
+│ 03                    │ AI / Machine Learning               │
+│ 04                    │ Full-Stack Development              │
+│ 05                    │ LLMs • Agents • Voice AI            │
+└───────────────────────┴─────────────────────────────────────┘
+```
+
+---
+
+## 💡 Developer mindset
+
+<div align="center">
+
+> **"Build something useful. Break it. Understand why. Build it better."**
+
+`☕` + `💻` + `🎧` + `curiosity` = `another side project`
+
+</div>
+
+---
+
+## 🌐 Let's connect
+
+<div align="center">
+
+<a href="https://github.com/Adiiii_0548"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:adityamanjare07@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Adiiii_0548&label=Profile%20views&color=00D9FF&style=flat" alt="Profile views" />
+
+### Thanks for stopping by! 🚀
+
+</div>
+
+<!-- No Featured Projects section by design. -->
