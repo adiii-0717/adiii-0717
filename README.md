@@ -1,8 +1,3 @@
-<!-- =========================================================
-     ADITYA MANJARE — GitHub Profile README
-     Replace any placeholder links marked TODO before publishing.
-     ========================================================= -->
-
 <div align="center">
 
 # 👋 Hi, I'm Aditya Manjare
@@ -29,26 +24,27 @@
 
 ```text
 ┌────────────────────────────────────────────┐
-│  $ whoami                                  │
+│ $ whoami                                   │
 │                                            │
-│  Aditya Manjare                            │
-│  MCA Student & Software Developer          │
+│ Aditya Manjare                             │
+│ MCA Student & Software Developer           │
 │                                            │
-│  📍 Pune, Maharashtra, India               │
-│  🎓 MCA @ PCCOE                            │
-│                      │
-│  🔥 50-day coding activity milestone      │
+│ Location  : Pune, Maharashtra, India       │
+│ Education : MCA @ PCCOE                    │
+│ Status    : Building & learning            │
 │                                            │
-│  I build practical software, experiment    │
-│  with AI, and enjoy turning ideas into     │
-│  working products.                          │
+│ Milestone : 50-day coding activity         │
+│                                            │
+│ I build practical software, experiment     │
+│ with AI, and enjoy turning ideas into      │
+│ working products.                          │
 └────────────────────────────────────────────┘
 ```
 
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="./assets/coding-demo.gif" width="100%" alt="Aditya coding demo animation" />
+<img src="coding-demo.gif" width="100%" alt="Aditya coding demo animation" />
 
 <sub>⌨️ <b>Currently building & experimenting</b></sub>
 
