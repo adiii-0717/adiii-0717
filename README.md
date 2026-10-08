@@ -57,7 +57,7 @@ llms · ai agents · voice ai · real-time apps · system design · dsa
 
 Open to feedback, collaboration and conversations about AI, backend, and anything real-time.
 
-**email** &nbsp;[adityamanjare84@gmail.com](mailto:adityamanjare84@gmail.com) &nbsp;·&nbsp; **github** &nbsp;[@adiii-0717](https://github.com/adiii-0717) &nbsp;·&nbsp; **linkedin** &nbsp;[Aditya Manjare](https://www.linkedin.com/)
+**email** &nbsp;[adityamanjare84@gmail.com](mailto:adityamanjare84@gmail.com) &nbsp;·&nbsp; **github** &nbsp;[@adiii-0717](https://github.com/adiii-0717) &nbsp;·&nbsp; **linkedin** &nbsp;[Aditya Manjare](https://www.linkedin.com/in/aditya-manjare-tech)
 
 <br>
 
