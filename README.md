@@ -39,7 +39,7 @@ llms · ai agents · voice ai · real-time apps · system design · dsa
 
 <div align="center">
 <img src="rec-top.svg" width="100%" alt="Video window title bar" /><br>
-<img src="coding.gif" width="100%" alt="Aditya coding demo animation" /><br>
+<img src="./coding.gif" width="100%" alt="Aditya coding demo animation" /><br>
 <img src="rec-bottom.svg" width="100%" alt="Looping playback bar" />
 </div>
 
