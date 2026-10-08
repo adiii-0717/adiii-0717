@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Animated heartbeat line with the text still learning, still building"><title>Animated heartbeat line with the text still learning, still building</title>
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="960" y2="0">
+<stop offset="0" stop-color="#ffb347"/><stop offset="1" stop-color="#4dd4c6"/></linearGradient></defs>
+<rect width="1000" height="150" rx="18" fill="#0a0e14" stroke="#1f2a3a"/>
+<path d="M40 75 L100 75 L112 40 L130 112 L144 75 L290 75 L302 40 L320 112 L334 75 L480 75 L492 40 L510 112 L524 75 L670 75 L682 40 L700 112 L714 75 L860 75 L872 40 L890 112 L904 75 L960 75" fill="none" stroke="#18212f" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M40 75 L100 75 L112 40 L130 112 L144 75 L290 75 L302 40 L320 112 L334 75 L480 75 L492 40 L510 112 L524 75 L670 75 L682 40 L700 112 L714 75 L860 75 L872 40 L890 112 L904 75 L960 75" fill="none" stroke="url(#g)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" pathLength="100" stroke-dasharray="14 86">
+<animate attributeName="stroke-dashoffset" values="0;-100" dur="4.5s" repeatCount="indefinite"/></path>
+<text x="500" y="136" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#7d8a9c">still learning  ·  still building  ·  signal on</text>
+</svg>

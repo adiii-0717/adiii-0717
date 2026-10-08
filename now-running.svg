@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 452" width="1000" height="452" role="img" aria-label="Process list showing what Aditya is currently building, exploring and practicing"><title>Process list showing what Aditya is currently building, exploring and practicing</title>
+<rect width="1000" height="452" rx="18" fill="#0a0e14" stroke="#1f2a3a"/>
+<circle cx="34" cy="30" r="6" fill="#ff5f56"/><circle cx="56" cy="30" r="6" fill="#ffbd2e"/><circle cx="78" cy="30" r="6" fill="#27c93f"/>
+<text x="104" y="35" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#7d8a9c">adiii@pune:~$ htop --me</text>
+<line x1="24" y1="56" x2="976" y2="56" stroke="#1f2a3a"/>
+<text x="40" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#7d8a9c" letter-spacing="2">PID</text>
+<text x="92" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#7d8a9c" letter-spacing="2">PROCESS</text>
+<text x="290" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#7d8a9c" letter-spacing="2">WHAT IT IS</text>
+<text x="640" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#7d8a9c" letter-spacing="2">STATE</text>
+<text x="790" y="84" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#7d8a9c" letter-spacing="2">ACTIVITY</text>
+<line x1="24" y1="96" x2="976" y2="96" stroke="#1f2a3a"/>
+
+<rect x="24" y="100" width="952" height="38" rx="8" fill="#ffb347" opacity="0.0">
+<animate attributeName="opacity" values="0;0.07;0" dur="9.0s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="40" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#7d8a9c">01</text>
+<text x="92" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="700" fill="#ffb347">edugpt</text>
+<text x="290" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3">AI educational assistant</text>
+<text x="640" y="124" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffb347" letter-spacing="1">BUILDING</text>
+<rect x="790" y="113" width="170" height="10" rx="5" fill="#151c29"/>
+<rect x="790" y="113" width="90" height="10" rx="5" fill="#ffb347">
+<animate attributeName="width" values="40;120;90;100;40" dur="4.5s" begin="0.0s" repeatCount="indefinite"/></rect>
+
+<rect x="24" y="146" width="952" height="38" rx="8" fill="#ffb347" opacity="0.0">
+<animate attributeName="opacity" values="0;0.07;0" dur="10.8s" begin="-1.3s" repeatCount="indefinite"/></rect>
+<text x="40" y="170" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#7d8a9c">02</text>
+<text x="92" y="170" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="700" fill="#ffb347">realtime-chat</text>
+<text x="290" y="170" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3">Django + WebSockets chat app</text>
+<text x="640" y="170" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#ffb347" letter-spacing="1">BUILDING</text>
+<rect x="790" y="159" width="170" height="10" rx="5" fill="#151c29"/>
+<rect x="790" y="159" width="127" height="10" rx="5" fill="#ffb347">
+<animate attributeName="width" values="63;137;127;117;63" dur="5.4s" begin="-0.7s" repeatCount="indefinite"/></rect>
+
+<rect x="24" y="192" width="952" height="38" rx="8" fill="#4dd4c6" opacity="0.0">
+<animate attributeName="opacity" values="0;0.07;0" dur="12.6s" begin="-2.6s" repeatCount="indefinite"/></rect>
+<text x="40" y="216" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#7d8a9c">03</text>
+<text x="92" y="216" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="700" fill="#4dd4c6">llm-lab</text>
+<text x="290" y="216" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3">LLM &amp; AI-agent experiments</text>
+<text x="640" y="216" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#4dd4c6" letter-spacing="1">EXPLORING</text>
+<rect x="790" y="205" width="170" height="10" rx="5" fill="#151c29"/>
+<rect x="790" y="205" width="104" height="10" rx="5" fill="#4dd4c6">
+<animate attributeName="width" values="86;154;104;134;86" dur="6.3s" begin="-1.4s" repeatCount="indefinite"/></rect>
+
+<rect x="24" y="238" width="952" height="38" rx="8" fill="#4dd4c6" opacity="0.0">
+<animate attributeName="opacity" values="0;0.07;0" dur="14.4s" begin="-3.9s" repeatCount="indefinite"/></rect>
+<text x="40" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#7d8a9c">04</text>
+<text x="92" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="700" fill="#4dd4c6">voice-ai</text>
+<text x="290" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3">speech-to-speech systems</text>
+<text x="640" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#4dd4c6" letter-spacing="1">EXPLORING</text>
+<rect x="790" y="251" width="170" height="10" rx="5" fill="#151c29"/>
+<rect x="790" y="251" width="141" height="10" rx="5" fill="#4dd4c6">
+<animate attributeName="width" values="59;131;141;111;59" dur="7.2s" begin="-2.1s" repeatCount="indefinite"/></rect>
+
+<rect x="24" y="284" width="952" height="38" rx="8" fill="#8bd17c" opacity="0.0">
+<animate attributeName="opacity" values="0;0.07;0" dur="16.2s" begin="-5.2s" repeatCount="indefinite"/></rect>
+<text x="40" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#7d8a9c">05</text>
+<text x="92" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="700" fill="#8bd17c">dsa-sql</text>
+<text x="290" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3">daily problem solving</text>
+<text x="640" y="308" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#8bd17c" letter-spacing="1">PRACTICING</text>
+<rect x="790" y="297" width="170" height="10" rx="5" fill="#151c29"/>
+<rect x="790" y="297" width="118" height="10" rx="5" fill="#8bd17c">
+<animate attributeName="width" values="82;148;118;128;82" dur="8.1s" begin="-2.8s" repeatCount="indefinite"/></rect>
+
+<rect x="24" y="330" width="952" height="38" rx="8" fill="#b39ddb" opacity="0.0">
+<animate attributeName="opacity" values="0;0.07;0" dur="18.0s" begin="-6.5s" repeatCount="indefinite"/></rect>
+<text x="40" y="354" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#7d8a9c">06</text>
+<text x="92" y="354" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="700" fill="#b39ddb">system-design</text>
+<text x="290" y="354" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3">how big systems hold together</text>
+<text x="640" y="354" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" font-weight="700" fill="#b39ddb" letter-spacing="1">STUDYING</text>
+<rect x="790" y="343" width="170" height="10" rx="5" fill="#151c29"/>
+<rect x="790" y="343" width="95" height="10" rx="5" fill="#b39ddb">
+<animate attributeName="width" values="55;125;95;105;55" dur="9.0s" begin="-3.5s" repeatCount="indefinite"/></rect>
+
+<line x1="24" y1="396" x2="976" y2="396" stroke="#1f2a3a"/>
+<text x="40" y="428" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#7d8a9c">load: curious  ·  uptime: always learning  ·  <tspan fill="#ffb347">kill -9 never</tspan></text>
+</svg>

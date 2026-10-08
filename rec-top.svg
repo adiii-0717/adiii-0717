@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 48" width="1000" height="48" role="img" aria-label="Video window title bar"><title>Video window title bar</title>
+<path d="M0 48V18A18 18 0 0 1 18 0H982A18 18 0 0 1 1000 18V48Z" fill="#0a0e14"/>
+<path d="M0.5 48V18A17.5 17.5 0 0 1 18 0.5H982A17.5 17.5 0 0 1 999.5 18V48" fill="none" stroke="#1f2a3a"/>
+<circle cx="34" cy="24" r="6" fill="#ff5f56"/><circle cx="56" cy="24" r="6" fill="#ffbd2e"/><circle cx="78" cy="24" r="6" fill="#27c93f"/>
+<text x="104" y="29" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#7d8a9c">coding-demo  ·  heads down, building</text>
+<circle cx="900" cy="24" r="6" fill="#ffb347"><animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="914" y="29" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="700" fill="#ffb347">LOOP</text>
+</svg>
